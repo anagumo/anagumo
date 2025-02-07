@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anagumo/anagumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <div align="center">I'm Ari, a full-time mobile engineer working remotely since 2015 🚀</div>  
+### <div align="center">I'm Ari ✨, a full-time mobile engineer working remotely since 2015 🚀</div>  
   
 
 - 🔭 I’m currently working on Bootcamp de Desarrollo de Apps para iOS y Android con Inteligencia Artificial Generativa Aplicada  
@@ -104,5 +102,3 @@ Here are some ideas to get you started:
 
 
 <br />
-
-----
