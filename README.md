@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Ari ✨, a full-time mobile engineer working remotely since 2015 🚀</div>  
   
 
-- 🔭 I’m currently working on Bootcamp de Desarrollo de Apps para iOS y Android con Inteligencia Artificial Generativa Aplicada  
+- 🔭 I’m currently programming in iOS
   
 
-- 🌱 I’m currently learning Swift at KeepCoding  
+- 🌱 I’m currently learning about Design Systems and TDD
   
 
 - ❓ Ask me about anything related to iOS stack and related technologies  
