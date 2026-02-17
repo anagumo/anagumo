@@ -3,8 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a final project called SnowTrails
-- 🌱 I’m currently learning Swift at Keepcoding
+- 🔭 I’m currently studying the interview process and solving dsa problems
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,10 +15,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Ari ✨, a full-time mobile engineer working remotely since 2015 🚀</div>  
   
 
-- 🔭 I’m currently programming in iOS
-  
-
-- 🌱 I’m currently learning about Design Systems and TDD
+- 🔭 I’m currently studying the interview process and solving dsa problems
   
 
 - ❓ Ask me about anything related to iOS stack and related technologies  
